@@ -6,6 +6,7 @@ sitemap: false
 permalink: /join
 ---
 
+# Joining VDEL
 
 We welcome Post-doc, Ph.D., M.S., and undergraduate applicants who have a **strong background** in:
 
@@ -32,7 +33,7 @@ Candidates must be **demonstrably proficient** in oral and written communication
 
 If you are interested in joining, please contact Prof. Kara with your CV. We strongly encourage you to apply if you have prior research experience (and ideally publications) in the above or related fields. 
 
-Graduate student applicants: In addition to sending your CV to Prof. Kara, please visit the [Graduate Admission site](https://www.meche.engineering.cmu.edu/education/graduate-programs/admission/index.html) for more info and to access the application portal.
+**Graduate student applicants:** In addition to sending your CV to Prof. Kara, please visit the [Graduate Admission site](https://www.meche.engineering.cmu.edu/education/graduate-programs/admission/index.html) for more info and to access the application portal.
 
 
 ### Undergraduate Students
