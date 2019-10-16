@@ -45,7 +45,7 @@ Research positions in the above areas are available for highly motivated and cap
 We strongly recommend the following courses in support of your research projects. The course descriptions and schedules can be found on the [Schedule of Classes page](https://enr-apps.as.cmu.edu/open/SOC/SOCServlet).
 
 <div>
-<table border='0' cellpadding='1' cellspacing='10' >
+<table border='0' cellpadding='5' cellspacing='10' >
 	<tr><td> 24-787 </td> <td> Machine Learning and Artificial Intelligence for Engineers</td></tr>
 	<tr><td> 24-788 </td> <td> Machine Learning and Artificial Intelligence for Engineers - Project</td></tr>
 </table>
