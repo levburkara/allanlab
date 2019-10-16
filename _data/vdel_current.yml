@@ -6,13 +6,13 @@
   education1: M.S. Carnegie Mellon University
   education2: B.S. xxxxx 
 
-- name: Wentai Zhang
+- name: Wentai Zhang <a href="teddyz829.github.io ">Wentai Zhang</a>
   photo: wentaizhang.jpg
-  info: Ph.D. candidate, started Fall 2017
+  info: Ph.D. candidate, started Fall 2017, <a href="teddyz829.github.io">web</a>
   email: wentaiz@andrew.cmu.edu
   number_educ: 2
   education1: M.S. Carnegie Mellon University
-  education2: B.S. xxxxx 
+  education2: B.S. Huazhong University of Science and Technology
 
 - name: Haiguang Liao
   photo: haiguangliao.jpg
