@@ -10,6 +10,18 @@
     display: Journal of Computing and Information Science in Engineering, (2019)
   news2: 
 
+- title: 3D Shape Synthesis for Conceptual Design and Optimization Using Variational Autoencoders
+  image: zhang2019idetcacd.png
+  description:
+    We present a data-driven 3D shape design method that can learn a generative model from a corpus of existing designs, and use this model to produce a wide range of new designs.
+  authors:
+    Zhenguo Nie; Haoliang Jiang; and Levent Burak Kara
+  highlight: 1
+  link:
+    url: https://bibbase.org/network/publication/zhang-yang-jiang-nigam-yamakawa-furuhata-shimada-kara-3dshapesynthesisforconceptualdesignandoptimizationusingvariationalautoencoders-2019
+    display: ASME 2019 International Design Engineering Technical Conferences, (2019)
+  news2: 
+
 - title: A Deep Reinforcement Learning Approach For Global Routing
   image: liao2019jmdglobalrouting.png
   description:
