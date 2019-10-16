@@ -50,31 +50,31 @@ We are a dynamic research group at the [Mechanical Engineering Department at Car
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic1.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic1.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic2.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic2.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic3.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic3.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic4.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic4.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic5.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic5.png" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic6.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic6.png" alt="Slide 6" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic7.jpg" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic7.png" alt="Slide 7" />
         </div>
           <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic8.jpg" alt="Slide 8" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic8.png" alt="Slide 8" />
         </div>
           <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic9.jpg" alt="Slide 9" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic9.png" alt="Slide 9" />
         </div>
     </div>
 
