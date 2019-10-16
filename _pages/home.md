@@ -22,7 +22,7 @@ We are a dynamic research group at the [Mechanical Engineering Department at Car
     </ol>
 
     <!-- Items -->
-    <div class="carousel-inner" markdown="0">
+    <!--<div class="carousel-inner" markdown="0">
 
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/STS.jpg" alt="Slide 1" />
@@ -45,7 +45,40 @@ We are a dynamic research group at the [Mechanical Engineering Department at Car
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 7" />
         </div>
+    </div> -->
+
+    <div class="carousel-inner" markdown="0">
+
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic1.jpg" alt="Slide 1" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic2.jpg" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic3.jpg" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic4.jpg" alt="Slide 4" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic5.jpg" alt="Slide 5" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic6.jpg" alt="Slide 6" />
+        </div>       
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic7.jpg" alt="Slide 7" />
+        </div>
+          <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic8.jpg" alt="Slide 8" />
+        </div>
+          <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/pic9.jpg" alt="Slide 9" />
+        </div>
     </div>
+
+
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
