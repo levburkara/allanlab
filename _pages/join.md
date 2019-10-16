@@ -10,23 +10,23 @@ permalink: /join
 ### Graduate Students and Post-Docs
 
 We welcome applicants who have a <strong>strong background</strong> in:
-<ul>
-	- Mechanical engineering (design, solid mechanics, manufacturing)</br>
-	- Numerical methods</br>
-	- Linear algebra and vector calculus</br>
-	- C/C++ or a similar scientific programming language</br>
-	- Python and/or Matlab</br>
-</ul>
+
+	- Mechanical engineering (design, solid mechanics, manufacturing)
+	- Numerical methods
+	- Linear algebra and vector calculus
+	- C/C++ or a similar scientific programming language
+	- Python and/or Matlab
+
 
 Experience in some or all of the following fields is <strong>highly</strong> desirable:
-<ul>
-	- Machine learning</br>
-	- Optimization</br>
-	- Physics simulations</br>
-	- Computer graphics</br>
-	- Geometric 3D modeling</br>
-	- Computer vision</br>
-</ul>
+
+	- Machine learning
+	- Optimization
+	- Physics simulations
+	- Computer graphics
+	- Geometric 3D modeling
+	- Computer vision
+
 
 
 Candidates must be <strong>demonstrably proficient</strong> in oral and written communication (prior publications, presentations etc.).
