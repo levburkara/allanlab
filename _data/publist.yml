@@ -52,7 +52,7 @@
   description:
     We present a data-driven 3D shape design method that can learn a generative model from a corpus of existing designs, and use this model to produce a wide range of new designs.
   authors:
-    Zhenguo Nie; Haoliang Jiang; and Levent Burak Kara
+    Wentai Zhang; Zhangsihao Yang; Haoliang Jiang; Suyash Nigam; Soji Yamakawa; Tomotake Furuhata; Kenji Shimada; and Levent Burak Kara
   highlight: 1
   link:
     url: https://bibbase.org/network/publication/zhang-yang-jiang-nigam-yamakawa-furuhata-shimada-kara-3dshapesynthesisforconceptualdesignandoptimizationusingvariationalautoencoders-2019
