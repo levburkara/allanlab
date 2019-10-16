@@ -9,27 +9,28 @@ permalink: /join
 
 ### Graduate Students and Post-Docs
 
-We welcome applicants who have a <strong>strong background</strong> in:
+We welcome applicants who have a **strong background** in:
 
-	- Mechanical engineering (design, solid mechanics, manufacturing)
-	- Numerical methods
-	- Linear algebra and vector calculus
-	- C/C++ or a similar scientific programming language
-	- Python and/or Matlab
-
-
-Experience in some or all of the following fields is <strong>highly</strong> desirable:
-
-	- Machine learning
-	- Optimization
-	- Physics simulations
-	- Computer graphics
-	- Geometric 3D modeling
-	- Computer vision
+* Mechanical engineering (design, solid mechanics, manufacturing)
+* Numerical methods
+* Linear algebra and vector calculus
+* C/C++ or a similar scientific programming language
+* Python and/or Matlab
 
 
+Experience in some or all of the following fields is **highly** desirable:
 
-Candidates must be <strong>demonstrably proficient</strong> in oral and written communication (prior publications, presentations etc.).
+- Machine learning
+- Optimization
+- Finite element analysis
+- Physics simulations
+- Computer graphics
+- Geometric 3D modeling
+- Computer vision
+
+
+
+Candidates must be **demonstrably proficient** in oral and written communication (prior publications, presentations etc.).
 
 If you are interested in joining, please contact Prof. Kara. Your application has a much better chance of being reviewed if your CV reflects the above qualifications. Applicants with prior research experience in the above or related fields are  strongly encouraged to apply.
 
