@@ -1,10 +1,42 @@
 ---
-title: "Allan Lab - Contact"
+title: "Kara Lab - Contact"
 layout: textlay
 excerpt: "Contact"
 sitemap: false
 permalink: /contact
 ---
+
+
+
+
+## Contact
+<div class="row">
+
+	<div class="col-sm-4 clearfix">
+<h4>Levent Burak Kara</h4>
+Carnegie Mellon University<br/>
+Mechanical Engineering Department<br/>
+Scaife Hall 411<br/>
+5000 Forbes Avenue<br/>
+Pittsburgh, PA 15213<br/>
+(412) 268-2509<br/>
+lkara (at) cmu.edu
+(<a href="https://goo.gl/maps/bR9kgPgHVzqxj6X29">Maps</a>, <a href="https://www.cmu.edu/visit/maps-parking-transportation.html">Directions</a>)
+</div>
+
+<div class="col-sm-4 clearfix">
+<h4>Lab Address</h4>
+Carnegie Mellon University<br/> 
+Wean Hall 3412<br/>
+5000 Forbes Avenue<br/>
+Pittsburgh, PA 15213<br/>
+(<a href="https://goo.gl/maps/pruvPUdgj5UZL7Mt8">Maps</a>, <a href="https://www.cmu.edu/visit/maps-parking-transportation.html">Directions</a>)
+</div>
+
+
+</div>
+
+
 
 <!-- # Open positions
 
