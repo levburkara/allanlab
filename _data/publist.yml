@@ -1,15 +1,3 @@
-- title: Structural Design Using Laplacian Shells
-  image: erva2019sgp.png
-  description:
-    We present a method for designing lightweight shell structures that are durable under the external forces that the objects experience during their use.
-  authors:
-    Erva Ulu; James McCann; and Levent Burak Kara
-  highlight: 1
-  link:
-    url: https://bibbase.org/network/publication/ulu-mccann-kara-structuraldesignusinglaplacianshells-2019
-    display: Computer Graphics Forum, (2019)
-  news2: 
-
 - title: A Deep Reinforcement Learning Approach For Global Routing
   image: liao2019jmdglobalrouting.png
   description:
@@ -22,6 +10,17 @@
     display: Journal of Mechanical Design, (2019)
   news2: 
 
+- title: Structural Design Using Laplacian Shells
+  image: erva2019sgp.png
+  description:
+    We present a method for designing lightweight shell structures that are durable under the external forces that the objects experience during their use.
+  authors:
+    Erva Ulu; James McCann; and Levent Burak Kara
+  highlight: 1
+  link:
+    url: https://bibbase.org/network/publication/ulu-mccann-kara-structuraldesignusinglaplacianshells-2019
+    display: Computer Graphics Forum, (2019)
+  news2: 
 
 - title: Concurrent Structure and Process Optimization for Minimum Cost Metal Additive Manufacturing
   image: ulu2018concurrent.png
