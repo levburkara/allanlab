@@ -7,9 +7,7 @@ permalink: /join
 ---
 
 
-### Graduate Students and Post-Docs
-
-We welcome applicants who have a **strong background** in:
+We welcome Post-doc, Ph.D., M.S., and undergraduate applicants who have a **strong background** in:
 
 * Mechanical engineering (design, solid mechanics, manufacturing)
 * Numerical methods
@@ -28,13 +26,13 @@ Experience in some or all of the following fields is **highly** desirable:
 - Geometric 3D modeling
 - Computer vision
 
-
+### Graduate Students and Post-Docs
 
 Candidates must be **demonstrably proficient** in oral and written communication (prior publications, presentations etc.).
 
-If you are interested in joining, please contact Prof. Kara. Your application has a much better chance of being reviewed if your CV reflects the above qualifications. Applicants with prior research experience in the above or related fields are  strongly encouraged to apply.
+If you are interested in joining, please contact Prof. Kara with your CV. We strongly encourage you to apply if you have prior research experience (and ideally publications) in the above or related fields. 
 
-Please visit the [Graduate Admission site](https://www.meche.engineering.cmu.edu/education/graduate-programs/admission/index.html) for more info and to access the application portal.
+Graduate student applicants: In addition to sending your CV to Prof. Kara, please visit the [Graduate Admission site](https://www.meche.engineering.cmu.edu/education/graduate-programs/admission/index.html) for more info and to access the application portal.
 
 
 ### Undergraduate Students
