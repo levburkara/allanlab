@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "VDEL - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "VDEL -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=_X2eOeQAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Levent_Kara2))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -54,10 +54,14 @@ permalink: /publications/
 
 ## Full List
 
-{% for publi in site.data.publist %}
+<script src="https://bibbase.org/show?bib=http%3A%2F%2Fvdel.me.cmu.edu%2Flbkrefs.bib&jsonp=1&fullnames=1&theme=default">
+	</script>
+
+<!-- {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
+-->
 
