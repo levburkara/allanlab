@@ -75,9 +75,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-## Ph.D. Candidates
+## Current Members
 {% assign number_printed = 0 %}
-{% for member in site.data.vdel_phd_current %}
+{% for member in site.data.vdel_current %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
