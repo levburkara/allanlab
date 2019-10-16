@@ -1,3 +1,14 @@
+- name: Zhenguo Nie
+  photo: zhenguonie.jpg
+  info: Post-doc, started Spring 2018
+  email: zhenguon@andrew.cmu.edu
+  number_educ: 4
+  education1: Post-doc Georgia Tech
+  education2: Ph.D. xxx
+  education3: M.S. xxxxx 
+  education4: B.S. xxxxx 
+
+
 - name: Ye Han
   photo: yehan.jpg
   info: Ph.D. candidate, started Fall 2014
@@ -6,7 +17,7 @@
   education1: M.S. Carnegie Mellon University
   education2: B.S. xxxxx 
 
-- name: Wentai Zhang <a href="https://teddyz829.github.io">Wentai Zhang</a>
+- name: <a href="https://teddyz829.github.io">Wentai Zhang</a>
   photo: wentaizhang.jpg
   info: Ph.D. candidate, started Fall 2017, <a href="https://teddyz829.github.io">web</a>
   email: wentaiz@andrew.cmu.edu
@@ -14,9 +25,9 @@
   education1: M.S. Carnegie Mellon University
   education2: B.S. Huazhong University of Science and Technology
 
-- name: Haiguang Liao
+- name: <a href="https://www.linkedin.com/in/haiguang-liao-4747bbb0/">Haiguang Liao</a>
   photo: haiguangliao.jpg
-  info: Ph.D. candidate, started Fall 2018, <a href="https://www.linkedin.com/in/haiguang-liao-4747bbb0/">web</a>
+  info: Ph.D. candidate, started Fall 2018
   email: haiguanl@andrew.cmu.edu
   number_educ: 3
   education1: M.S. Northwestern University
