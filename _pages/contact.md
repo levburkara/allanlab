@@ -12,7 +12,7 @@ permalink: /contact
 ## Contact
 <div class="row">
 
-	<div class="col-sm-4 clearfix">
+<div class="col-sm-4 clearfix">
 <h4>Levent Burak Kara</h4>
 Carnegie Mellon University<br/>
 Mechanical Engineering Department<br/>
