@@ -13,3 +13,12 @@
   number_educ: 2
   education1: M.S. Carnegie Mellon University, MechE
   education2: B.S. xxxxx 
+
+- name: Haiguang Liao
+  photo: haiguangliao.jpg
+  info: Ph.D. candidate, started Fall 2018, <a href="https://www.linkedin.com/in/haiguang-liao-4747bbb0/">www</a>
+  email: haiguanl@andrew.cmu.edu
+  number_educ: 3
+  education1: M.S. Northwestern University, MechE
+  education2: M.S. Shanghai Jiao Tong University
+  education3: B.S. Shanghai Jiao Tong University
