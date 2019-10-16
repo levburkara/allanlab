@@ -1,12 +1,61 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "Kara Lab - Join"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Join"
 sitemap: false
-permalink: /vacancies
+permalink: /join
 ---
 
-# Open positions
+
+### Graduate Students and Post-Docs
+
+We welcome applicants who have a <strong>strong background</strong> in:
+<ul>
+	- Mechanical engineering (design, solid mechanics, manufacturing)
+	- Numerical methods</br>
+	- Linear algebra and vector calculus</br>
+	- C/C++ or a similar scientific programming language</br>
+	- Python and/or Matlab</br>
+</ul>
+
+Experience in some or all of the following fields is <strong>highly</strong> desirable:
+<ul>
+	- Machine learning</br>
+	- Optimization</br>
+	- Physics simulations</br>
+	- Computer graphics</br>
+	- Geometric 3D modeling</br>
+	- Computer vision</br>
+</ul>
+
+
+Candidates must be <strong>demonstrably proficient</strong> in oral and written communication (prior publications, presentations etc.).
+
+If you are interested in joining, please contact Prof. Kara. Your application has a much better chance of being reviewed if your CV reflects the above qualifications. Applicants with prior research experience in the above or related fields are  strongly encouraged to apply.
+
+Please visit the [Graduate Admission site](https://www.meche.engineering.cmu.edu/education/graduate-programs/admission/index.html) for more info and to access the application portal.
+
+
+### Undergraduate Students
+
+Research positions in the above areas are available for highly motivated and capable undergraduate students. Please contact Prof. Kara to set up a meeting.
+
+### What courses should I take after joining CMU?
+
+We strongly recommend the following courses in support of your research projects. The course descriptions and schedules can be found on the [Schedule of Classes page](https://enr-apps.as.cmu.edu/open/SOC/SOCServlet).
+
+<div>
+<table border='0' cellpadding='1' cellspacing='10' >
+	<tr><td> 24-787 </td> <td> Machine Learning and Artificial Intelligence for Engineers</td></tr>
+	<tr><td> 24-788 </td> <td> Machine Learning and Artificial Intelligence for Engineers - Project</td></tr>
+</table>
+</div>
+
+
+
+
+
+<!-- # Open positions
 
 We are always looking for new group members with passion, talent, and grit!
 
@@ -34,4 +83,4 @@ If you are interested in pursuing a Master degree at Leiden University, see [mas
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+</figure> -->
