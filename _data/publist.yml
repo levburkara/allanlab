@@ -59,8 +59,8 @@
     display: ASME 2019 International Design Engineering Technical Conferences, (2019)
   news2: 
 
-    
-- title: Data-driven Upsampling of Point Clouds.
+
+- title: Data-driven Upsampling of Point Clouds
   image: zhang2019cadpointcloudupsampling.png
   description:
     We present a data-driven point cloud upsamling algorithm using a deep learning architecture.
