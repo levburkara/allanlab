@@ -69,14 +69,19 @@ We are located at Leiden University, the birthplace of superconductivity and hom
 We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_nsf.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_darpa.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_boeing.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_siemens.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_americamakes.jpg" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_nsf.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_darpa.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_boeing.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_siemens.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_americamakes.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_misumi.jpg" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_mitsubishielectric.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_pita.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ansys.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_honda.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_berkman.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_afrl.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_aro.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_mfi.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_saic.png" style="width: 100px">
 </figure>
