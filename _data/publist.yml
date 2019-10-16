@@ -1,5 +1,5 @@
 - title: Concurrent Structure and Process Optimization for Minimum Cost Metal Additive Manufacturing
-  image: pic_ulu2018concurrent.png
+  image: ulu2018concurrent.png
   description:
     We develop a design for 3D AM algorithm that minimizes the overall cost of parts production through structural and process parameter optimization.
   authors:
@@ -9,6 +9,19 @@
     url: https://bibbase.org/network/publication/ulu-huang-kara-whitefoot-concurrentstructureandprocessoptimizationforminimumcostmetaladditivemanufacturing-2018
     display: Journal of Mechanical Design, (2019)
   news2: See also <a href="https://phys.org/news/2019-03-lightening-the-load.html"> Phys.org </a> and <a href="https://www.cmu.edu/news/stories/archives/2019/january/lightening-the-load.html"> CMU</a>
+
+
+- title: Lightweight Structure Design Under Force Location Uncertainty
+  image: ulu2017lightweight.png
+  description:
+    We develop a new toplogy optimization method particularly useful in the presence of moving loads.
+  authors:
+    Erva Ulu; James McCann; and Levent Burak Kara
+  highlight: 1
+  link:
+    url: https://bibbase.org/network/publication/ulu-mccann-kara-lightweightstructuredesignunderforcelocationuncertainty-2017
+    display: ACM Transactions on Graphics (SIGGRAPH), (2017)
+  news2: See also the <a href="https://youtu.be/ozIBFOr-Djc"> video</a> and highlight at <a href="https://phys.org/news/2017-09-lighter-weights-additive.html"> Phys.org </a> and <a href="https://engineering.cmu.edu/news-events/news/2017/09/27-kara-additive-manufacturing.html"> CMU</a>
 
 
 # - title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
