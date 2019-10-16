@@ -11,7 +11,7 @@ permalink: /join
 
 We welcome applicants who have a <strong>strong background</strong> in:
 <ul>
-	- Mechanical engineering (design, solid mechanics, manufacturing)
+	- Mechanical engineering (design, solid mechanics, manufacturing)</br>
 	- Numerical methods</br>
 	- Linear algebra and vector calculus</br>
 	- C/C++ or a similar scientific programming language</br>
