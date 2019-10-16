@@ -1,3 +1,28 @@
+- title: Structural Design Using Laplacian Shells
+  image: erva2019sgp.png
+  description:
+    We present a method for designing lightweight shell structures that are durable under the external forces that the objects experience during their use.
+  authors:
+    Erva Ulu; James McCann; and Levent Burak Kara
+  highlight: 1
+  link:
+    url: https://bibbase.org/network/publication/ulu-mccann-kara-structuraldesignusinglaplacianshells-2019
+    display: Computer Graphics Forum, (2019)
+  news2: 
+
+- title: A Deep Reinforcement Learning Approach For Global Routing
+  image: liao2019jmdglobalrouting.png
+  description:
+    We present a deep reinforcement learning method for solving the global routing problem.
+  authors:
+    Haiguang Liao; Wentai Zhang Dong , Xuliang; Barnabas Poczos; Kenji Shimada; and Levent Burak Kara
+  highlight: 1
+  link:
+    url: https://bibbase.org/network/publication/liao-zhang-poczos-shimada-kara-adeepreinforcementlearningapproachforglobalrouting-2019
+    display: Journal of Mechanical Design, (2019)
+  news2: 
+
+
 - title: Concurrent Structure and Process Optimization for Minimum Cost Metal Additive Manufacturing
   image: ulu2018concurrent.png
   description:
@@ -21,7 +46,7 @@
   link:
     url: https://bibbase.org/network/publication/ulu-mccann-kara-lightweightstructuredesignunderforcelocationuncertainty-2017
     display: ACM Transactions on Graphics (SIGGRAPH), (2017)
-  news2: See also the <a href="https://youtu.be/ozIBFOr-Djc"> video</a> and highlight at <a href="https://phys.org/news/2017-09-lighter-weights-additive.html"> Phys.org </a> and <a href="https://engineering.cmu.edu/news-events/news/2017/09/27-kara-additive-manufacturing.html"> CMU</a>
+  news2: See also the <a href="https://youtu.be/ozIBFOr-Djc"> video</a> and highlights at <a href="https://phys.org/news/2017-09-lighter-weights-additive.html"> Phys.org </a> and <a href="https://engineering.cmu.edu/news-events/news/2017/09/27-kara-additive-manufacturing.html"> CMU</a>
 
 
 # - title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
