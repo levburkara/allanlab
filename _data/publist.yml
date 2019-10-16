@@ -1,3 +1,15 @@
+- title: Stress Field Prediction in Cantilevered Structures Using Convolutional Neural Networks
+  image: zhenguo2019idetcstressnet.png
+  description:
+    We present a deep learning method for fast predictions of the stress fields generated in cantilevered structures subject to external forces.
+  authors:
+    Zhenguo Nie; Haoliang Jiang; and Levent Burak Kara
+  highlight: 1
+  link:
+    url: https://bibbase.org/network/publication/nie-jiang-kara-stressfieldpredictionincantileveredstructuresusingconvolutionalneuralnetworks-2019
+    display: Journal of Computing and Information Science in Engineering, (2019)
+  news2: 
+
 - title: A Deep Reinforcement Learning Approach For Global Routing
   image: liao2019jmdglobalrouting.png
   description:
@@ -34,6 +46,17 @@
     display: Journal of Mechanical Design, (2019)
   news2: See also <a href="https://phys.org/news/2019-03-lightening-the-load.html"> Phys.org </a> and <a href="https://www.cmu.edu/news/stories/archives/2019/january/lightening-the-load.html"> CMU</a>
 
+- title: Data-driven Upsampling of Point Clouds.
+  image: zhang2019cadpointcloudupsampling.png
+  description:
+    We present a data-driven point cloud upsamling algorithm using a deep learning architecture.
+  authors:
+    Wentai Zhang; Haoliang Jiang; Zhangsihao Yang; Soji Yamakawa; Kenji Shimada; and Levent Burak Kara
+  highlight: 1
+  link:
+    url: https://bibbase.org/network/publication/zhang-jiang-yang-yamakawa-shimada-kara-datadrivenupsamplingofpointclouds-2019
+    display: Computer-Aided Design, (2019)
+  news2: 
 
 - title: Lightweight Structure Design Under Force Location Uncertainty
   image: ulu2017lightweight.png
@@ -47,6 +70,18 @@
     display: ACM Transactions on Graphics (SIGGRAPH), (2017)
   news2: See also the <a href="https://youtu.be/ozIBFOr-Djc"> video</a> and highlights at <a href="https://phys.org/news/2017-09-lighter-weights-additive.html"> Phys.org </a> and <a href="https://engineering.cmu.edu/news-events/news/2017/09/27-kara-additive-manufacturing.html"> CMU</a>
 
+
+- title: Reconstruction of a Deformed Tumor Based on Fiducial Marker Registration - A Computational Feasibility Study
+  image: yehan2018tcrt.png
+  description:
+    We present a fast computational algorithm for predicting soft tissue deformations using a set of fiducial markers.
+  authors:
+    Ye Han; Emily Oakley; Gal Shafirstein; Yoed Rabin; and Levent Burak Kara
+  highlight: 1
+  link:
+    url: https://bibbase.org/network/publication/han-oakley-shafirstein-rabin-kara-reconstructionofadeformedtumorbasedonfiducialmarkerregistrationacomputationalfeasibilitystudy-2018
+    display: Technology in Cancer Research & Treatment, (2018)
+  news2: 
 
 # - title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
 #   image: STS_news.png
