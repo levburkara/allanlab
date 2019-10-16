@@ -74,7 +74,7 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_boeing.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_siemens.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_americamakes.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_misumi.jpg" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_misumi.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_mitsubishielectric.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_pita.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ansys.png" style="width: 100px">
