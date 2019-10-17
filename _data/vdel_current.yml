@@ -41,6 +41,13 @@
   education1: M.S. Carnegie Mellon University
   education2: B.S. The Ohio State University 
 
+- name: Xuliang Dong
+  photo: xuliangdong.jpg
+  info: M.S. candidate, started Fall 2018
+  email: xuliangd@andrew.cmu.edu
+  number_educ: 1
+  education1: B.S. Zhejiang University (ZJU)
+
 - name: <a href="https://www.linkedin.com/in/vidh1/">Vidhi Upadhyay </a>
   photo: vidhiupadhyay.jpg
   info: M.S. candidate, started Fall 2019
@@ -54,6 +61,11 @@
   email: qingyid@andrew.cmu.edu
   number_educ: 1
   education1: B.S. Carnegie Mellon University, ECE (ongoing)
+
+
+
+
+
 
 
 
