@@ -84,13 +84,22 @@
 
 - title: Reconstruction of a Deformed Tumor Based on Fiducial Marker Registration - A Computational Feasibility Study
   image: yehan2018tcrt.png
-  description:
-    We present a fast computational algorithm for predicting soft tissue deformations using a set of fiducial markers.
+  description: We present a fast computational algorithm for predicting soft tissue deformations using a set of fiducial markers.
   authors: Ye Han; Emily Oakley; Gal Shafirstein; Yoed Rabin; and Levent Burak Kara
   highlight: 1
   link:
     url: https://bibbase.org/network/publication/han-oakley-shafirstein-rabin-kara-reconstructionofadeformedtumorbasedonfiducialmarkerregistrationacomputationalfeasibilitystudy-2018
     display: Technology in Cancer Research & Treatment, (2018)
+  news2: 
+
+  - title: Designing coupling behaviors using compliant shape optimization
+  image: ulu2018designing.png
+  description: We introduce a method for designing coupling behaviors between an arbitrary compliant structure and an arbitrary rigid object. Resulting structures exhibit the desired coupling behavior such as ease of engagement-disengagement and grip.
+  authors: Nurcan Gecer Uu; Stelian Coros; and Levent Burak Kara
+  highlight: 1
+  link:
+    url: https://bibbase.org/network/publication/uu-coros-kara-designingcouplingbehaviorsusingcompliantshapeoptimization-2018
+    display: Computer-Aided Design, (2018)
   news2: 
 
 
