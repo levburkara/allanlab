@@ -61,6 +61,8 @@ We strongly recommend the following courses in support of your research projects
 | 24703 | |  Numerical Methods in Engineering (fundamentals in numerical calculation) | 
 | 15462/662 | |  Computer Graphics| 
 | 15351/650 | |  Algorithms and Advanced Data Structures (theory)| 
+|  | |  | 
+|  | |  | 
 
 
 
