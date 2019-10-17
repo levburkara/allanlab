@@ -142,22 +142,22 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="row">
 
 <div class="col-sm-4 clearfix">
-<h4>Ph.D. Students</h4>
+<h4>Ph.D. Alumni</h4>
 {% for member in site.data.vdel_alumni_phd %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Master Students</h4>
-{% for member in site.data.vdel_alumni_phd %}
+<h4>Master Alumni</h4>
+{% for member in site.data.vdel_alumni_ms %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.vdel_alumni_phd %}
+<h4>Bachelor Alumni</h4>
+{% for member in site.data.vdel_alumni_ms %}
 {{ member.name }}
 {% endfor %}
 </div>
