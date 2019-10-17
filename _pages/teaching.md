@@ -26,34 +26,34 @@ The links below point to the most recent syllabus for each corresponding course.
 Prof. Kara's teaching history:
 
 
-| Course | Units | Class | Offered | Num of Students |
-|:--------|:-------|:-------|:---------|:----------------|
-| LAVC        |     	 10	| Soph	| Spring 19| 	9	| 
-| MLAI        |     	 12	| Gr	| Fall 18| 	39	| 
-| MLAI-P        |     	 12	| Gr	| Spring 18| 	25	| 
-| MLAI        |     	 12	| Gr	| Fall 17| 	44	| 
-| MLAI-P        |     	 12	| Gr	| Spring 17| 	12	| 
-| MLAI          |            12	| Gr	| Fall 16	| 42	| 
-| IPD 	|  12	| Gr	| Spring 16	| 31| 	
-| Design II	 | 12	| Sr	| Spring 16| 	33	| 
-| S.T. in Graphics | 12	| Gr	| Fall 15	| 19	| 
-| MLAI       |                12	| Gr| 	Fall 15	| 48	| 
-| Design II     |          	 12| 	Sr	| Spring 15| 	34	| 
-| MLAI          |             12	| Gr| 	Fall 14	| 25	| 
-| Design II     |          	 12	| Sr	| Spring 14| 	49	| 
-| MLAI      |                 12	| Gr| 	Fall 13	| 29| 	
-| Design II     |          	 12	| Sr | Spring 13| 	54	| 
-| MLAI      |                 12	| Gr| 	Fall 12	| 24	| 
-| MLAI       |                12	| Gr| 	Spring 12	| 33	| 
-| Design II       |        	12	| Sr	| Fall 11| 50| 	44	| 	
-| MLAI       |                12	| Gr| 	Spring 11	| 28	| 
-| Design II         |      	 12	| Sr | Fall 10	| 54	| 
-| Design II            |   	 12	| Sr 	| Spring 10	| 37| 	
-| MLAI       |                12	| Gr   |   Fall 09 	| 15| 	
-| Design II       |         12    |        Sr   |   Spring 09  |  33     |        
-| MLAI              |         12	| Gr    |  Fall 08|  	30	| 
-| Design II       |        	 12	| Sr | Spring 08	| 61	| 
-| EMS  | 12	| Jr	| Spring 06	| 104	| 
+| Course &nbsp; &nbsp; &nbsp;| Units &nbsp; &nbsp; &nbsp;| Class &nbsp; &nbsp; &nbsp;| Offered &nbsp; &nbsp; &nbsp;| Num of Students &nbsp; &nbsp; &nbsp;|
+|:--------			|:-------|:-------|:---------|:----------------|
+| LAVC				|10	| Soph	| Spring 19		| 9		| 
+| MLAI-P			|12	| Gr	| Fall 18		| 39	| 
+| MLAI-P        	|12	| Gr	| Spring 18		| 25	| 
+| MLAI        		|12	| Gr	| Fall 17		| 44	| 
+| MLAI-P        	|12	| Gr	| Spring 17		| 12	| 
+| MLAI          	|12	| Gr	| Fall 16		| 42	| 
+| IPD 				|12	| Gr	| Spring 16		| 31	| 	
+| Design II	 		|12	| Sr	| Spring 16		| 33	| 
+| S.T. in Graphics 	|12	| Gr	| Fall 15		| 19	| 
+| MLAI       		|12	| Gr 	| Fall 15		| 48	| 
+| Design II     	|12	| Sr	| Spring 15		| 34	| 
+| MLAI          	|12	| Gr 	| Fall 14		| 25	| 
+| Design II     	|12	| Sr	| Spring 14		| 49	| 
+| MLAI      		|12	| Gr 	| Fall 13		| 29	| 	
+| Design II     	|12	| Sr 	| Spring 13		| 54	| 
+| MLAI      		|12	| Gr 	| Fall 12		| 24	| 
+| MLAI       		|12	| Gr 	| Spring 12		| 33	| 
+| Design II       	|12	| Sr	| Fall 11		| 50	| 
+| MLAI       		|12	| Gr 	| Spring 11		| 28	| 
+| Design II         |12	| Sr 	| Fall 10		| 54	| 
+| Design II      	|12	| Sr 	| Spring 10		| 37	| 	
+| MLAI       		|12	| Gr   	| Fall 09 		| 15	| 	
+| Design II       	|12 | Sr   	| Spring 09  	| 33   	|        
+| MLAI              |12	| Gr    | Fall 08		| 30	| 
+| Design II       	|12	| Sr 	| Spring 08		| 61	| 
+| EMS  				|12	| Jr	| Spring 06		| 104	| 
 | |  | &nbsp; &nbsp; &nbsp;|  | |
 | |  | &nbsp; &nbsp; &nbsp;|  | |
 
