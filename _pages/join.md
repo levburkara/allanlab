@@ -44,12 +44,36 @@ Research positions in the above areas are available for highly motivated and cap
 
 We strongly recommend the following courses in support of your research projects. The course descriptions and schedules can be found on the [Schedule of Classes page](https://enr-apps.as.cmu.edu/open/SOC/SOCServlet).
 
-<div>
-<table border='0' cellpadding='5' cellspacing='10' >
-	<tr><td> 24-787 </td> <td> Machine Learning and Artificial Intelligence for Engineers</td></tr>
-	<tr><td> 24-788 </td> <td> Machine Learning and Artificial Intelligence for Engineers - Project</td></tr>
-</table>
-</div>
+| 24-787 | Machine Learning and Artificial Intelligence for Engineers           |
+| 24-788 | Machine Learning and Artificial Intelligence for Engineers - Project |
+|        |                                                                      |
+|        |                                                                      |
+|        |                                                                      |
+|        |                                                                      |
+|        |                                                                      |
+|        |                                                                      |
+|        |                                                                      |
+
+
+
+<!-- 24787 - Machine Learning and Artificial Intelligence for Engineers
+24788 - Machine Learning and Artificial Intelligence for Engineers[Project]
+10601/701 - Introduction to Machine Learning /(PhD)
+11785 - Introduction to Deep Learning
+10703 - Deep Reinforcement Learning and Control
+24-785 - Engineering Optimization
+10725 - Convex Optimization
+16720 - Computer VIsion    (good for deep understanding of convolutional neural network)
+24-771 - Linear System (Advanced linear algebra; count towards math requirement)
+24-780 - Engineering Computation (C++ / Fundamental coding skill)
+15-462/662 - Computer Graphics
+15-351/650 - Algorithms and Advanced Data Structures (theory)
+24-755 - Finite Element Method in Mechanics I (computational solid mechanics)
+24-703 - Numerical Methods in Engineering (fundamentals in numerical calculation) -->
+
+
+
+
 
 
 
