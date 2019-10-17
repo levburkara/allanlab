@@ -138,9 +138,33 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
+## Alumni
+<div class="row">
 
+<div class="col-sm-4 clearfix">
+<h4>Ph.D. Students</h4>
+{% for member in site.data.vdel_alumni_phd %}
+{{ member.name }}
+{% endfor %}
+</div>
 
-## Staff
+<div class="col-sm-4 clearfix">
+<h4>Master Students</h4>
+{% for member in site.data.vdel_alumni_phd %}
+{{ member.name }}
+{% endfor %}
+</div>
+
+<div class="col-sm-4 clearfix">
+<h4>Bachelor Students</h4>
+{% for member in site.data.vdel_alumni_phd %}
+{{ member.name }}
+{% endfor %}
+</div>
+
+</div>
+
+<!-- ## Staff
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -200,12 +224,12 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
 
 
 
-## Master and Bachelor Students
+<!-- ## Master and Bachelor Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -256,10 +280,10 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
 
-## Alumni
+<!-- ## Alumni
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -283,7 +307,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endfor %}
 </div>
 
-</div>
+</div> -->
 
 
 
