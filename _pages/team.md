@@ -141,21 +141,21 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 ## Alumni
 <div class="row">
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-6 clearfix">
 <h4>Ph.D. Alumni</h4>
 {% for member in site.data.vdel_alumni_phd %}
 {{ member.name }}
 {% endfor %}
 </div>
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-3 clearfix">
 <h4>M.S. Alumni</h4>
 {% for member in site.data.vdel_alumni_ms %}
 {{ member.name }}
 {% endfor %}
 </div>
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-3 clearfix">
 <h4>B.S. Alumni</h4>
 {% for member in site.data.vdel_alumni_bs %}
 {{ member.name }}
