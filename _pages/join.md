@@ -51,15 +51,16 @@ We strongly recommend the following courses in support of your research projects
 | 10601/701    |  |     Introduction to Machine Learning           |
 |  11785      |  |     Introduction to Deep Learning                  |
 | 10703 | |  Deep Reinforcement Learning and Control| 
-| 24-785 | |  Engineering Optimization| 
+| 24785 | |  Engineering Optimization| 
 | 10725 | |  Convex Optimization| 
 | 16720 | |  Computer VIsion    (good for deep understanding of convolutional neural network)| 
-| 24-771 | |  Linear System (Advanced linear algebra; count towards math requirement)| 
-| 24-780 | |  Engineering Computation (C++ / Fundamental coding skill)| 
-| 15-462/662 | |  Computer Graphics| 
-| 15-351/650 | |  Algorithms and Advanced Data Structures (theory)| 
-| 24-755 | |  Finite Element Method in Mechanics I (computational solid mechanics)| 
-| 24-703 | |  Numerical Methods in Engineering (fundamentals in numerical calculation) | 
+| 24771 | |  Linear System (Advanced linear algebra; count towards math requirement)| 
+| 24780 | |  Engineering Computation (C++ / Fundamental coding skill)| 
+| 24755 | |  Finite Element Method in Mechanics I (computational solid mechanics)| 
+| 24703 | |  Numerical Methods in Engineering (fundamentals in numerical calculation) | 
+| 15462/662 | |  Computer Graphics| 
+| 15351/650 | |  Algorithms and Advanced Data Structures (theory)| 
+
 
 
 
