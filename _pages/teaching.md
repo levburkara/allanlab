@@ -26,8 +26,8 @@ The links below point to the most recent syllabus for each course.
 Prof. Kara's teaching history:
 
 
-| Course &nbsp; &nbsp; &nbsp; &nbsp;| Units &nbsp; &nbsp; &nbsp; &nbsp;| Class &nbsp; &nbsp; &nbsp; &nbsp;| Offered &nbsp; &nbsp; &nbsp; &nbsp;| Num of Students &nbsp; &nbsp; &nbsp; &nbsp;|
-|:--------			|:-------|:-------|---------:|----------------:|
+| Course &nbsp; &nbsp; &nbsp; &nbsp;| Units &nbsp; &nbsp; &nbsp; &nbsp;| Class &nbsp; &nbsp; &nbsp; &nbsp;| Offered &nbsp; &nbsp; &nbsp;| Num of Students &nbsp; &nbsp; &nbsp;|
+|:--------			|:-------|:-------|---------:|-----------:|
 | LAVC				|10	| Soph	| Spring 19		| 9		| 
 | MLAI-P			|12	| Gr	| Fall 18		| 39	| 
 | MLAI-P        	|12	| Gr	| Spring 18		| 25	| 
