@@ -10,7 +10,7 @@ permalink: /teaching
 
 Fall 2019: Prof. Kara is on sabbatical, hence not teaching.
 
-The links below point to the most recent syllabi.
+The links below point to the most recent syllabus for each course.
 
 | [MLAI] | 24787 | &nbsp; &nbsp; &nbsp;| [Machine Learning and Artificial Intelligence for Engineers](http://vdel.me.cmu.edu/teaching/24787/syllabus.pdf)  |
 | [MLAI-P]| 24788 | &nbsp; &nbsp; &nbsp;| [Machine Learning and Artificial Intelligence for Engineers - Project](http://vdel.me.cmu.edu/teaching/24788/syllabus.pdf)  |
