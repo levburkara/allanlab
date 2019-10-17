@@ -47,13 +47,14 @@ We strongly recommend the following courses in support of your research projects
 
 
 | 24787 | | Machine Learning and Artificial Intelligence for Engineers           |
+|:-------|:------:|:---------------------------------------------------------------------|
 | 24788 | | Machine Learning and Artificial Intelligence for Engineers - Project |
 | 10601/701    |  |     Introduction to Machine Learning           |
 |  11785      |  |     Introduction to Deep Learning                  |
 | 10703 | |  Deep Reinforcement Learning and Control| 
 | 24785 | |  Engineering Optimization| 
 | 10725 | |  Convex Optimization| 
-| 16720 | |  Computer VIsion    (good for deep understanding of convolutional neural network)| 
+| 16720 | |  Computer Vision    (good for deep understanding of convolutional neural network)| 
 | 24771 | |  Linear System (Advanced linear algebra; count towards math requirement)| 
 | 24780 | |  Engineering Computation (C++ / Fundamental coding skill)| 
 | 24755 | |  Finite Element Method in Mechanics I (computational solid mechanics)| 
