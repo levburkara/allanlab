@@ -61,6 +61,16 @@
     display: Computer-Aided Design, (2019)
   news2: 
 
+- title: Prediction of Nitrogen Concentration In Fuel Cells Using Data-driven Modeling
+  image: tong2019idetcfc.png
+  description: We present and compare a set of machine learning methods for predicting nitrogen concentration in proton exchange membrane fuel cells (PEMFCs).
+  authors: Tong Lin; Leiming Hu; Shawn Litster; and Levent Burak Kara
+  highlight: 1
+  link:
+    url: https://bibbase.org/network/publication/lin-hu-litster-kara-predictionofnitrogenconcentrationinfuelcellsusingdatadrivenmodeling-2019
+    display: ASME International Design Engineering Technical Conferences, (2019)
+  news2: 
+
 - title: Lightweight Structure Design Under Force Location Uncertainty
   image: ulu2017lightweight.png
   description: We develop a new toplogy optimization method particularly useful in the presence of moving loads.
@@ -83,15 +93,7 @@
     display: Technology in Cancer Research & Treatment, (2018)
   news2: 
 
-  - title: Prediction of Nitrogen Concentration In Fuel Cells Using Data-driven Modeling
-  image: tong2019idetcfc.png
-  description: We present and compare a set of machine learning methods for predicting nitrogen concentration in proton exchange membrane fuel cells (PEMFCs).
-  authors: Tong Lin; Leiming Hu; Shawn Litster; and Levent Burak Kara
-  highlight: 1
-  link:
-    url: https://bibbase.org/network/publication/lin-hu-litster-kara-predictionofnitrogenconcentrationinfuelcellsusingdatadrivenmodeling-2019
-    display: ASME International Design Engineering Technical Conferences, (2019)
-  news2: 
+
 
 # - title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
 #   image: STS_news.png
