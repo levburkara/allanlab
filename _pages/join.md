@@ -47,7 +47,7 @@ We strongly recommend the following courses in support of your research projects
 
 
 | 24787 | &nbsp; &nbsp; &nbsp;| Machine Learning and Artificial Intelligence for Engineers           |
-| 24788 | &nbsp; &nbsp; &nbsp;| Machine Learning and Artificial Intelligence for Engineers /- Project |
+| 24788 | &nbsp; &nbsp; &nbsp;| Machine Learning and Artificial Intelligence for Engineers - Project |
 | 10601/701    |  &nbsp; &nbsp; &nbsp;|     Introduction to Machine Learning           |
 |  11785      |  &nbsp; &nbsp; &nbsp;|     Introduction to Deep Learning                  |
 | 10703 | &nbsp; &nbsp; &nbsp;|  Deep Reinforcement Learning and Control| 
