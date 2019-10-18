@@ -131,15 +131,15 @@ To this end, our research focuses on generating new algorithmic and methodologic
 
 
 
-| Tables        | Are           | Cool  |
+<!-- | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 | <ul><li>AI ML</li><li>Geometric Modeling</li><li>Analysis and Synthesis</li></ul>| See the list | from the first column|
+ -->
 
-
-<table>
+<!-- <table>
   <tbody>
       <tr>
           <td>
@@ -160,7 +160,7 @@ To this end, our research focuses on generating new algorithmic and methodologic
           <td>2</td>
       </tr>
   </tbody>
-</table>
+</table> -->
 
 
 To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
