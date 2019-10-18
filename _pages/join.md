@@ -1,5 +1,5 @@
 ---
-title: "Kara Lab - Join"
+title: "VDEL - Join"
 layout: textlay
 excerpt: "Join"
 sitemap: false

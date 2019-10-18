@@ -1,5 +1,5 @@
 ---
-title: "Kara Lab - Teaching"
+title: "VDEL - Teaching"
 layout: textlay
 excerpt: "Teaching"
 sitemap: false
