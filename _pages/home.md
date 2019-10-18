@@ -120,7 +120,7 @@ To this end, our research focuses on generating new algorithmic and methodologic
     <tr>
       <td align="left">
         <ul>
-          <li>AI  ML
+          <li>AI / ML
             <ul>
               <li>Regression</li>
               <li>Deep Learning</li>
@@ -133,7 +133,7 @@ To this end, our research focuses on generating new algorithmic and methodologic
               <li>Generative Design</li>
               <li>Solid Mechanics</li>
               <li>Physics Simulations</li>
-              <li>FEA, Meshing</li>
+              <li>FEA / Meshing</li>
             </ul>
           </li>
           <li>Geometric Modeling
@@ -155,24 +155,13 @@ To this end, our research focuses on generating new algorithmic and methodologic
           <li>Design Theory and Methodology</li>
           <li>Integrated Circuit Design</li>
           <li>Bio-engineering</li>
+          <li>Fuel Cell Design</li>
+          <li>Air Quality Monitoring</li>
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
-
-
-
-CAD / Shape design
-Topology Optimization
-Additive Manufacturing
-Bio-engineering
-Procedural Modeling
-Prediction Problems
-Air Quality
-Aerospace Part Design
-
-
 
 
 
