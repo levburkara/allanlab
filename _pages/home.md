@@ -117,13 +117,6 @@ To this end, our research focuses on generating new algorithmic and methodologic
       <th align="left">Applications</th>
     </tr>
     <tr>
-      <td>
-        <ul>
-          <li>AI  ML</li>
-          <li>Geometric Modeling</li>
-          <li>Analysis and Synthesis</li>
-        </ul>
-      </td>
       <td align="left">
         <ul>
           <li>AI  ML
@@ -133,13 +126,7 @@ To this end, our research focuses on generating new algorithmic and methodologic
               <li>Reinforcement Learning</li>
             </ul>
           </li>
-          <li>Geometric Modeling
-            <ul>
-              <li>Shape Modeling</li>
-              <li>Shape Processing</li>
-            </ul>
-          </li>
-          <li>Analysis and Synthesis
+          <li>Engineering Analysis and Synthesis
             <ul>
               <li>Optimization</li>
               <li>Generative Design</li>
@@ -148,6 +135,19 @@ To this end, our research focuses on generating new algorithmic and methodologic
               <li>FEA, Meshing</li>
             </ul>
           </li>
+          <li>Geometric Modeling
+            <ul>
+              <li>Shape Modeling</li>
+              <li>Shape Processing</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>AI  ML</li>
+          <li>Geometric Modeling</li>
+          <li>Analysis and Synthesis</li>
         </ul>
       </td>
     </tr>
