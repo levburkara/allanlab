@@ -152,6 +152,7 @@ To this end, our research focuses on generating new algorithmic and methodologic
           <li>CAD / Shape design</li>
           <li>Topology Optimization</li>
           <li>Additive Manufacturing</li>
+          <li>Design Theory and Methodology</li>
           <li>Integrated circuit design</li>
           <li>Bio-engineering</li>
         </ul>
