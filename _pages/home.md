@@ -92,9 +92,9 @@ We are a dynamic research group at the [Mechanical Engineering Department at Car
 </div>
 
 
-To this end, our research focuses on generating new algorithmic and methodological knowledge, all demonstrated and validated through computational software. Our research projects build upon the following **core foundations**:
+To this end, our research focuses on generating new algorithmic and methodological knowledge, all demonstrated and validated through computational software. Our research projects build upon the following core foundations and applications:
 
-
+<!-- 
 * AI / ML
   * Regression
   * Deep Learning
@@ -107,7 +107,7 @@ To this end, our research focuses on generating new algorithmic and methodologic
   * Generative Design 
   * Solid mechanics
   * Physics Simulations
-  * FEA/meshing 
+  * FEA/meshing  -->
 
 
 <table>
