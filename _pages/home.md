@@ -149,7 +149,7 @@ To this end, our research focuses on generating new algorithmic and methodologic
       </td>
       <td style="text-align:left;vertical-align:top"> 
         <ul>
-          <li>CAD / Shape design</li>
+          <li>CAD / Shape Design</li>
           <li>Topology Optimization</li>
           <li>Additive Manufacturing</li>
           <li>Design Theory and Methodology</li>
