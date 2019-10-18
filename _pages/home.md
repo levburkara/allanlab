@@ -110,6 +110,20 @@ To this end, our research focuses on generating new algorithmic and methodologic
   * FEA/meshing 
 
 
+<table>
+  <tbody>
+      <tr>
+          <td>1</td>
+          <td>2</td>
+      </tr>
+      <tr>
+          <td>1</td>
+          <td>2</td>
+      </tr>
+  </tbody>
+</table>
+
+
 To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
 
 
