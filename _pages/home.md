@@ -112,11 +112,10 @@ To this end, our research focuses on generating new algorithmic and methodologic
 
 <table>
   <tbody>
- <!--    <tr>
-      <th>Tables</th>
-      <th align="center">Are</th>
-      <th align="right">Cool</th>
-    </tr> -->
+    <tr>
+      <th align="left">Core Foundations</th>
+      <th align="right">Applications</th>
+    </tr>
     <tr>
       <td>
         <ul>
