@@ -169,6 +169,8 @@ Wordcloud from our publications (2014 onward)
 <img src="{{ site.url }}{{ site.baseurl }}/images/worldcloudpic/wordcloud.png" width="95%">
 </figure>
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/worldcloudpic/wordcloud.png" alt="wordcloud" style="border:5px solid">
+
 <!-- <table>
   <tbody>
       <tr>
