@@ -124,7 +124,18 @@ To this end, our research focuses on generating new algorithmic and methodologic
           <li>Analysis and Synthesis</li>
         </ul>
       </td>
-      <td align="center">AAA</td>
+      <td align="center">
+        <ul>
+          <li>Coffee</li>
+          <li>Tea
+            <ul>
+              <li>Black tea</li>
+              <li>Green tea</li>
+            </ul>
+          </li>
+          <li>Milk</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
