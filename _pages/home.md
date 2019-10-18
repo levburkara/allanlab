@@ -99,11 +99,9 @@ To this end, our research focuses on generating new algorithmic and methodologic
   * Regression
   * Deep Learning
   * Reinforcement Learning
-
 * Geometric Modeling
- * Shape Modeling
- * Shape Processing
-
+  * Shape Modeling
+  * Shape Processing
 *  Analysis and Synthesis
   * Optimization 
   * Generative Design 
