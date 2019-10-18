@@ -119,8 +119,9 @@ To this end, our research focuses on generating new algorithmic and methodologic
     <tr>
       <td>
         <ul>
-          <li>item1</li>
-          <li>item2</li>
+          <li>AI  ML</li>
+          <li>Geometric Modeling</li>
+          <li>Analysis and Synthesis</li>
         </ul>
       </td>
       <td align="center">AAA</td>
