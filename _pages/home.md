@@ -114,7 +114,7 @@ To this end, our research focuses on generating new algorithmic and methodologic
   <tbody>
     <tr>
       <th align="left">Core Foundations</th>
-      <th align="right">Applications</th>
+      <th align="left">Applications</th>
     </tr>
     <tr>
       <td>
@@ -124,16 +124,30 @@ To this end, our research focuses on generating new algorithmic and methodologic
           <li>Analysis and Synthesis</li>
         </ul>
       </td>
-      <td align="center">
+      <td align="left">
         <ul>
-          <li>Coffee</li>
-          <li>Tea
+          <li>AI  ML
             <ul>
-              <li>Black tea</li>
-              <li>Green tea</li>
+              <li>Regression</li>
+              <li>Deep Learning</li>
+              <li>Reinforcement Learning</li>
             </ul>
           </li>
-          <li>Milk</li>
+          <li>Geometric Modeling
+            <ul>
+              <li>Shape Modeling</li>
+              <li>Shape Processing</li>
+            </ul>
+          </li>
+          <li>Analysis and Synthesis
+            <ul>
+              <li>Optimization</li>
+              <li>Generative Design</li>
+              <li>Solid Mechanics</li>
+              <li>Physics Simulations</li>
+              <li>FEA, Meshing</li>
+            </ul>
+          </li>
         </ul>
       </td>
     </tr>
