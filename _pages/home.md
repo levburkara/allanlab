@@ -149,14 +149,28 @@ To this end, our research focuses on generating new algorithmic and methodologic
       </td>
       <td>
         <ul>
-          <li>AI  ML</li>
-          <li>Geometric Modeling</li>
-          <li>Analysis and Synthesis</li>
+          <li>CAD / Shape design</li>
+          <li>Topology Optimization</li>
+          <li>Additive Manufacturing</li>
+          <li>Integrated circuit design</li>
+          <li>Bio-engineering</li>
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
+
+
+
+CAD / Shape design
+Topology Optimization
+Additive Manufacturing
+Bio-engineering
+Procedural Modeling
+Prediction Problems
+Air Quality
+Aerospace Part Design
+
 
 
 
