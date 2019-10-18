@@ -166,7 +166,7 @@ To this end, our research focuses on generating new algorithmic and methodologic
 Wordcloud from our publications (2014 onward)
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/worldcloudpic/wordcloud.png" width="100%" style="border:5px solid">
+<img src="{{ site.url }}{{ site.baseurl }}/images/worldcloudpic/wordcloud.png" width="100%" style="border:2px solid">
 </figure>
 
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/worldcloudpic/wordcloud.png" alt="wordcloud" style="border:5px solid"> -->
