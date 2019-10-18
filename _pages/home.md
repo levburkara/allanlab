@@ -113,7 +113,21 @@ To this end, our research focuses on generating new algorithmic and methodologic
 <table>
   <tbody>
       <tr>
-          <td>1</td>
+          <td>
+* AI / ML
+  * Regression
+  * Deep Learning
+  * Reinforcement Learning
+* Geometric Modeling
+  * Shape Modeling
+  * Shape Processing
+* Analysis and Synthesis
+  * Optimization 
+  * Generative Design 
+  * Solid mechanics
+  * Physics Simulations
+  * FEA/meshing 
+</td>
           <td>2</td>
       </tr>
       <tr>
