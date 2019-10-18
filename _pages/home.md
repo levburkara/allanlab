@@ -147,13 +147,13 @@ To this end, our research focuses on generating new algorithmic and methodologic
       <td align="left">
         &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       </td>
-      <td>
+      <td style="text-align:left;vertical-align:top"> 
         <ul>
           <li>CAD / Shape design</li>
           <li>Topology Optimization</li>
           <li>Additive Manufacturing</li>
           <li>Design Theory and Methodology</li>
-          <li>Integrated circuit design</li>
+          <li>Integrated Circuit Design</li>
           <li>Bio-engineering</li>
         </ul>
       </td>
