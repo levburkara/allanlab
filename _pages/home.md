@@ -112,26 +112,11 @@ To this end, our research focuses on generating new algorithmic and methodologic
 
 <table>
   <tbody>
-    <tr>
+ <!--    <tr>
       <th>Tables</th>
       <th align="center">Are</th>
       <th align="right">Cool</th>
-    </tr>
-    <tr>
-      <td>col 3 is</td>
-      <td align="center">right-aligned</td>
-      <td align="right">$1600</td>
-    </tr>
-    <tr>
-      <td>col 2 is</td>
-      <td align="center">centered</td>
-      <td align="right">$12</td>
-    </tr>
-    <tr>
-      <td>zebra stripes</td>
-      <td align="center">are neat</td>
-      <td align="right">$1</td>
-    </tr>
+    </tr> -->
     <tr>
       <td>
         <ul>
@@ -139,8 +124,7 @@ To this end, our research focuses on generating new algorithmic and methodologic
           <li>item2</li>
         </ul>
       </td>
-      <td align="center">See the list</td>
-      <td align="right">from the first column</td>
+      <td align="center">AAA</td>
     </tr>
   </tbody>
 </table>
