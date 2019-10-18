@@ -116,7 +116,7 @@ To this end, our research focuses on generating new algorithmic and methodologic
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
-| <ul><li>AI / ML</li><li>Geometric Modeling</li><li>Analysis and Synthesis</li></ul>| See the list | from the first column|
+| <ul><li>AI ML</li><li>Geometric Modeling</li><li>Analysis and Synthesis</li></ul>| See the list | from the first column|
 
 
 <table>
