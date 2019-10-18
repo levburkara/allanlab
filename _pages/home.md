@@ -169,7 +169,7 @@ Wordcloud from our publications (2014 onward)
 <img src="{{ site.url }}{{ site.baseurl }}/images/worldcloudpic/wordcloud.png" width="100%" style="border:5px solid">
 </figure>
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/worldcloudpic/wordcloud.png" alt="wordcloud" style="border:5px solid">
+<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/worldcloudpic/wordcloud.png" alt="wordcloud" style="border:5px solid"> -->
 
 <!-- <table>
   <tbody>
