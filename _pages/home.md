@@ -6,6 +6,8 @@ sitemap: false
 permalink: /
 ---
 
+Hi
+
 We are a dynamic research group at the [Mechanical Engineering Department](https://www.meche.engineering.cmu.edu) at [Carnegie Mellon University](https://www.cmu.edu). Our aim is to **develop new engineering design, analysis, and manufacturing technologies through the use of artificial intelligence, machine learning, and optimization**.
 
 
