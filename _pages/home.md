@@ -114,7 +114,7 @@ To this end, our research focuses on generating new algorithmic and methodologic
   <tbody>
     <tr>
       <th align="left">Core Foundations</th>
-      <th align="left">&nbsp; &nbsp; &nbsp;</th>
+      <th align="left">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>
       <th align="left">Applications</th>
     </tr>
     <tr>
@@ -145,7 +145,7 @@ To this end, our research focuses on generating new algorithmic and methodologic
         </ul>
       </td>
       <td align="left">
-        &nbsp; &nbsp; &nbsp;
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       </td>
       <td>
         <ul>
