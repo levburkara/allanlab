@@ -102,7 +102,7 @@ To this end, our research focuses on generating new algorithmic and methodologic
 * Geometric Modeling
   * Shape Modeling
   * Shape Processing
-*  Analysis and Synthesis
+* Analysis and Synthesis
   * Optimization 
   * Generative Design 
   * Solid mechanics
