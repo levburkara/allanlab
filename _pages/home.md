@@ -110,6 +110,15 @@ To this end, our research focuses on generating new algorithmic and methodologic
   * FEA/meshing 
 
 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+| <ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|
+
+
 <table>
   <tbody>
       <tr>
@@ -128,10 +137,6 @@ To this end, our research focuses on generating new algorithmic and methodologic
   * Physics Simulations
   * FEA/meshing 
 </td>
-          <td>2</td>
-      </tr>
-      <tr>
-          <td>1</td>
           <td>2</td>
       </tr>
   </tbody>
