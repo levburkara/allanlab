@@ -1,7 +1,7 @@
 ---
-title: "VDEL - Team"
+title: "Visual Design and Engineering Lab - Team"
 layout: gridlay
-excerpt: "VDEL: Team members"
+excerpt: "Team"
 sitemap: false
 permalink: /team/
 ---

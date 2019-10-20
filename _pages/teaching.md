@@ -1,9 +1,9 @@
 ---
-title: "VDEL - Teaching"
+title: "Visual Design and Engineering Lab - Teaching"
 layout: textlay
 excerpt: "Teaching"
 sitemap: false
-permalink: /teaching
+permalink: /teaching/
 ---
 
 # Teaching

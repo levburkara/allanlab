@@ -1,9 +1,9 @@
 ---
-title: "VDEL - Join"
+title: "Visual Design and Engineering Lab - Join"
 layout: textlay
 excerpt: "Join"
 sitemap: false
-permalink: /join
+permalink: /join/
 ---
 
 # Joining VDEL

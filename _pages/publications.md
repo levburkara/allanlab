@@ -1,7 +1,7 @@
 ---
-title: "VDEL - Publications"
+title: "Visual Design and Engineering Lab - Publications"
 layout: gridlay
-excerpt: "VDEL -- Publications."
+excerpt: "Publications."
 sitemap: false
 permalink: /publications/
 ---

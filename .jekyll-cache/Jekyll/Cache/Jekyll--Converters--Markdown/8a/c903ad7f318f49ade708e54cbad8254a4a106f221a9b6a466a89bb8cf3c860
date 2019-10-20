@@ -1,0 +1,155 @@
+I" <h1 id="joining-vdel">Joining VDEL</h1>
+
+<p>We welcome Post-doc, Ph.D., M.S., and undergraduate applicants who have a <strong>strong background</strong> in:</p>
+
+<ul>
+  <li>Mechanical engineering (design, solid mechanics, manufacturing)</li>
+  <li>Numerical methods</li>
+  <li>Linear algebra and vector calculus</li>
+  <li>C/C++ or a similar scientific programming language</li>
+  <li>Python and/or Matlab</li>
+</ul>
+
+<p>Experience in some or all of the following fields is <strong>highly</strong> desirable:</p>
+
+<ul>
+  <li>Machine learning</li>
+  <li>Optimization</li>
+  <li>Finite element analysis</li>
+  <li>Physics simulations</li>
+  <li>Computer graphics</li>
+  <li>Geometric 3D modeling</li>
+  <li>Computer vision</li>
+</ul>
+
+<h3 id="graduate-students-and-post-docs">Graduate Students and Post-Docs</h3>
+
+<p>Candidates must be <strong>demonstrably proficient</strong> in oral and written communication (prior publications, presentations etc.).</p>
+
+<p>If you are interested in joining, please contact Prof. Kara with your CV. We strongly encourage you to apply if you have prior research experience (and ideally publications) in the above or related fields.</p>
+
+<p><strong>Graduate student applicants:</strong> In addition to sending your CV to Prof. Kara, please visit the <a href="https://www.meche.engineering.cmu.edu/education/graduate-programs/admission/index.html">Graduate Admission site</a> for more info and to access the application portal.</p>
+
+<h3 id="undergraduate-students">Undergraduate Students</h3>
+
+<p>Research positions in the above areas are available for highly motivated and capable undergraduate students. Please contact Prof. Kara to set up a meeting.</p>
+
+<h3 id="what-courses-should-i-take-after-joining-cmu">What courses should I take after joining CMU?</h3>
+
+<p>We strongly recommend the following courses in support of your research projects. The course descriptions and schedules can be found on the <a href="https://enr-apps.as.cmu.edu/open/SOC/SOCServlet">Schedule of Classes page</a>.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>24787</td>
+      <td>     </td>
+      <td>Machine Learning and Artificial Intelligence for Engineers</td>
+    </tr>
+    <tr>
+      <td>24788</td>
+      <td>     </td>
+      <td>Machine Learning and Artificial Intelligence for Engineers - Project</td>
+    </tr>
+    <tr>
+      <td>10601/701</td>
+      <td>     </td>
+      <td>Introduction to Machine Learning</td>
+    </tr>
+    <tr>
+      <td>11785</td>
+      <td>     </td>
+      <td>Introduction to Deep Learning</td>
+    </tr>
+    <tr>
+      <td>10703</td>
+      <td>     </td>
+      <td>Deep Reinforcement Learning and Control</td>
+    </tr>
+    <tr>
+      <td>24785</td>
+      <td>     </td>
+      <td>Engineering Optimization</td>
+    </tr>
+    <tr>
+      <td>10725</td>
+      <td>     </td>
+      <td>Convex Optimization</td>
+    </tr>
+    <tr>
+      <td>16720</td>
+      <td>     </td>
+      <td>Computer Vision    (good for deep understanding of convolutional neural network)</td>
+    </tr>
+    <tr>
+      <td>24771</td>
+      <td>     </td>
+      <td>Linear System (Advanced linear algebra; count towards math requirement)</td>
+    </tr>
+    <tr>
+      <td>24780</td>
+      <td>     </td>
+      <td>Engineering Computation (C++ / Fundamental coding skill)</td>
+    </tr>
+    <tr>
+      <td>24755</td>
+      <td>     </td>
+      <td>Finite Element Method in Mechanics I (computational solid mechanics)</td>
+    </tr>
+    <tr>
+      <td>24703</td>
+      <td>     </td>
+      <td>Numerical Methods in Engineering (fundamentals in numerical calculation)</td>
+    </tr>
+    <tr>
+      <td>15462/662</td>
+      <td>     </td>
+      <td>Computer Graphics</td>
+    </tr>
+    <tr>
+      <td>15351/650</td>
+      <td>     </td>
+      <td>Algorithms and Advanced Data Structures (theory)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>     </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>     </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- # Open positions
+
+We are always looking for new group members with passion, talent, and grit!
+
+You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+
+### Current open positions
+
+You find the current job openings here:
+[Opening 1](/downloads/GeneralPostdoc_2019_v01.pdf),
+[Opening 2](/downloads/PPMS_PhD_2019_v01.pdf).
+
+It might be interesting to look at some past job advertisements. While the projects keep changing, the themes are still roughly the same. You can download them [here](/downloads/PD.pdf), [here](/downloads/PHD1.pdf), or [here](/downloads/PHD2.pdf).
+
+### Applications for PhD and Postdoc positions
+If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+
+There are  postdoc scholarship available.  I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/innovational-research-incentives-scheme/veni/index.html) or the [Marie Curie fellowship](http://ec.europa.eu/research/mariecurieactions/about-msca/actions/if/index_en.htm).
+
+### Master projects for Leiden University students
+If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
+
+### Bsc / Master students from elsewhere
+If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
+
+
+<figure>
+<img src="http://vdel.me.cmu.edu/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+</figure> -->
+:ET

@@ -1,7 +1,7 @@
 ---
-title: "News"
+title: "Visual Design and Engineering Lab - News"
 layout: textlay
-excerpt: "VDEL at Carnegie Mellon University."
+excerpt: "Visual Design and Engineering Lab at Carnegie Mellon University."
 sitemap: false
 permalink: /allnews.html
 ---
