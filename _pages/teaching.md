@@ -12,13 +12,13 @@ Fall 2019: Prof. Kara is on sabbatical, hence not teaching.
 
 The links below point to the most recent syllabus for each course.
 
-| [MLAI] | 24787 | &nbsp; &nbsp; &nbsp;| [Machine Learning and Artificial Intelligence for Engineers](http://vdel.me.cmu.edu/teaching/24787/syllabus.pdf)  |
-| [MLAI-P]| 24788 | &nbsp; &nbsp; &nbsp;| [Machine Learning and Artificial Intelligence for Engineers - Project](http://vdel.me.cmu.edu/teaching/24788/syllabus.pdf)  |
-| [Design II] | 24441 | &nbsp; &nbsp; &nbsp;| [Capstone - ME Engineering Design: Conceptualization and Realization](http://vdel.me.cmu.edu/teaching/24441/syllabus.pdf)  |
-| [LAVC] | 24282 | &nbsp; &nbsp; &nbsp;| [Linear Algebra and Vector Calculus](http://vdel.me.cmu.edu/teaching/24282/syllabus.pdf)  |
-| [S.T. in Graphics] | 15869 | &nbsp; &nbsp; &nbsp;| [Special Topics in Graphics](http://vdel.me.cmu.edu/teaching/15869/syllabus.pdf)  |
-| [IPD] | 49741 | &nbsp; &nbsp; &nbsp;| [Capstone - Integrated Product Development](http://vdel.me.cmu.edu/teaching/49741/syllabus.pdf)  |
-| [EMS] | 24371 | &nbsp; &nbsp; &nbsp;| [Electro Mechanical Systems](http://vdel.me.cmu.edu/teaching/24371/syllabus.pdf)  |
+| [MLAI] | 24787 | &nbsp; &nbsp; &nbsp;| [Machine Learning and Artificial Intelligence for Engineers](http://vdel.me.cmu.edu/vdelresource/teaching/24787/syllabus.pdf)  |
+| [MLAI-P]| 24788 | &nbsp; &nbsp; &nbsp;| [Machine Learning and Artificial Intelligence for Engineers - Project](http://vdel.me.cmu.edu/vdelresource/teaching/24788/syllabus.pdf)  |
+| [Design II] | 24441 | &nbsp; &nbsp; &nbsp;| [Capstone - ME Engineering Design: Conceptualization and Realization](http://vdel.me.cmu.edu/vdelresource/teaching/24441/syllabus.pdf)  |
+| [LAVC] | 24282 | &nbsp; &nbsp; &nbsp;| [Linear Algebra and Vector Calculus](http://vdel.me.cmu.edu/vdelresource/teaching/24282/syllabus.pdf)  |
+| [S.T. in Graphics] | 15869 | &nbsp; &nbsp; &nbsp;| [Special Topics in Graphics](http://vdel.me.cmu.edu/vdelresource/teaching/15869/syllabus.pdf)  |
+| [IPD] | 49741 | &nbsp; &nbsp; &nbsp;| [Capstone - Integrated Product Development](http://vdel.me.cmu.edu/vdelresource/teaching/49741/syllabus.pdf)  |
+| [EMS] | 24371 | &nbsp; &nbsp; &nbsp;| [Electro Mechanical Systems](http://vdel.me.cmu.edu/vdelresource/teaching/24371/syllabus.pdf)  |
 | |  | &nbsp; &nbsp; &nbsp;|  | 
 | |  | &nbsp; &nbsp; &nbsp;|  | 
 
